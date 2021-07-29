@@ -1,0 +1,2 @@
+# BotZanty
+bot
